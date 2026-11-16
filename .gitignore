@@ -1,0 +1,15 @@
+# Dados originais
+train.csv
+test.csv
+sample_submission.csv
+
+# Ambientes Python
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
