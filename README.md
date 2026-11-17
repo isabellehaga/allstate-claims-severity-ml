@@ -46,5 +46,5 @@ Additional libraries and tools will be documented as the project develops.
 
 ## Project Status
 
-<em>In progress.</em>
+*In progress.*
 
